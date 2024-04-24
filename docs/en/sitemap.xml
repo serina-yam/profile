@@ -2,89 +2,83 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/hugo-PaperMod/</loc>
+    <loc>https://serina-yam.github.io/serina-yam/</loc>
     <lastmod>2024-04-24T18:22:09+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://localhost:1313/hugo-PaperMod/jp/"
+                href="https://serina-yam.github.io/serina-yam/jp/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/hugo-PaperMod/"
+                href="https://serina-yam.github.io/serina-yam/"
                 />
   </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/tags/dialy/</loc>
+    <loc>https://serina-yam.github.io/serina-yam/tags/dialy/</loc>
     <lastmod>2024-04-24T18:22:09+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/posts/2024/0425/</loc>
-    <lastmod>2024-04-24T18:22:09+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/posts/</loc>
+    <loc>https://serina-yam.github.io/serina-yam/posts/</loc>
     <lastmod>2024-04-24T18:22:09+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://localhost:1313/hugo-PaperMod/jp/posts/"
+                href="https://serina-yam.github.io/serina-yam/jp/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/hugo-PaperMod/posts/"
+                href="https://serina-yam.github.io/serina-yam/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/tags/spain/</loc>
-    <lastmod>2024-04-24T18:22:09+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/tags/</loc>
+    <loc>https://serina-yam.github.io/serina-yam/tags/</loc>
     <lastmod>2024-04-24T18:22:09+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://localhost:1313/hugo-PaperMod/jp/tags/"
+                href="https://serina-yam.github.io/serina-yam/jp/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/hugo-PaperMod/tags/"
+                href="https://serina-yam.github.io/serina-yam/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/posts/2024/0424/</loc>
+    <loc>https://serina-yam.github.io/serina-yam/posts/2024/0424/</loc>
     <lastmod>2024-04-24T18:22:09+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://localhost:1313/hugo-PaperMod/jp/posts/2024/0424/"
+                href="https://serina-yam.github.io/serina-yam/jp/posts/2024/0424/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/hugo-PaperMod/posts/2024/0424/"
+                href="https://serina-yam.github.io/serina-yam/posts/2024/0424/"
                 />
   </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/archives/</loc>
+    <loc>https://serina-yam.github.io/serina-yam/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://localhost:1313/hugo-PaperMod/jp/archives/"
+                href="https://serina-yam.github.io/serina-yam/jp/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/hugo-PaperMod/archives/"
+                href="https://serina-yam.github.io/serina-yam/archives/"
                 />
   </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/search/</loc>
+    <loc>https://serina-yam.github.io/serina-yam/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://localhost:1313/hugo-PaperMod/jp/search/"
+                href="https://serina-yam.github.io/serina-yam/jp/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/hugo-PaperMod/search/"
+                href="https://serina-yam.github.io/serina-yam/search/"
                 />
   </url>
 </urlset>
