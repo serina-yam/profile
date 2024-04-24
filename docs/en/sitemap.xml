@@ -2,83 +2,83 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/profile/</loc>
+    <loc>https://serina-yam.github.io/profile/</loc>
     <lastmod>2024-04-24T18:22:09+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://localhost:1313/profile/jp/"
+                href="https://serina-yam.github.io/profile/jp/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/profile/"
+                href="https://serina-yam.github.io/profile/"
                 />
   </url><url>
-    <loc>http://localhost:1313/profile/tags/dialy/</loc>
+    <loc>https://serina-yam.github.io/profile/tags/dialy/</loc>
     <lastmod>2024-04-24T18:22:09+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/profile/posts/</loc>
-    <lastmod>2024-04-24T18:22:09+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="http://localhost:1313/profile/jp/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/profile/posts/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/profile/tags/</loc>
+    <loc>https://serina-yam.github.io/profile/posts/</loc>
     <lastmod>2024-04-24T18:22:09+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://localhost:1313/profile/jp/tags/"
+                href="https://serina-yam.github.io/profile/jp/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/profile/tags/"
+                href="https://serina-yam.github.io/profile/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/profile/posts/2024/0424/</loc>
+    <loc>https://serina-yam.github.io/profile/tags/</loc>
     <lastmod>2024-04-24T18:22:09+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://localhost:1313/profile/jp/posts/2024/0424/"
+                href="https://serina-yam.github.io/profile/jp/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/profile/posts/2024/0424/"
+                href="https://serina-yam.github.io/profile/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/profile/archives/</loc>
+    <loc>https://serina-yam.github.io/profile/posts/2024/0424/</loc>
+    <lastmod>2024-04-24T18:22:09+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://localhost:1313/profile/jp/archives/"
+                href="https://serina-yam.github.io/profile/jp/posts/2024/0424/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/profile/archives/"
+                href="https://serina-yam.github.io/profile/posts/2024/0424/"
                 />
   </url><url>
-    <loc>http://localhost:1313/profile/search/</loc>
+    <loc>https://serina-yam.github.io/profile/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://localhost:1313/profile/jp/search/"
+                href="https://serina-yam.github.io/profile/jp/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/profile/search/"
+                href="https://serina-yam.github.io/profile/archives/"
+                />
+  </url><url>
+    <loc>https://serina-yam.github.io/profile/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://serina-yam.github.io/profile/jp/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://serina-yam.github.io/profile/search/"
                 />
   </url>
 </urlset>
