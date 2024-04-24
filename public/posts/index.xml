@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Blog</title>
+    <link>http://localhost:1313/hugo-PaperMod/posts/</link>
+    <description>Recent content in Posts on Blog</description>
+    <image>
+      <title>Blog</title>
+      <url>http://localhost:1313/hugo-PaperMod/images/papermod-cover.png</url>
+      <link>http://localhost:1313/hugo-PaperMod/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>serina_yam 2024.04.24-</copyright>
+    <lastBuildDate>Wed, 24 Apr 2024 18:22:09 +0900</lastBuildDate><atom:link href="http://localhost:1313/hugo-PaperMod/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>mui bien</title>
+      <link>http://localhost:1313/hugo-PaperMod/posts/2024/0425/</link>
+      <pubDate>Wed, 24 Apr 2024 18:22:09 +0900</pubDate>
+      
+      <guid>http://localhost:1313/hugo-PaperMod/posts/2024/0425/</guid>
+      <description>spain~. mui bien:)</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/hugo-PaperMod/posts/2024/0424/</link>
+      <pubDate>Wed, 24 Apr 2024 18:22:09 +0900</pubDate>
+      
+      <guid>http://localhost:1313/hugo-PaperMod/posts/2024/0424/</guid>
+      <description>This is a test.</description>
+    </item>
+    
+  </channel>
+</rss>
