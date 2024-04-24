@@ -1,6 +1,6 @@
 # If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-baseURL: "https://serina-yam.github.io/serina-yam/"
+baseURL: "https://serina-yam.github.io/profile/"
 publishDir: docs
 title: Blog
 copyright: "serina_yam since 2024.04.24"
