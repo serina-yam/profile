@@ -6,7 +6,7 @@ tags:
 ---
 
 
-The teacher spoke slowly and was enjoyable.  
+Because the teacher spoke slowly, I was enjoyable lesson time with her.  
 She also pointed out mistakes along the way.
 
 She told me about a video streaming site called viu.
