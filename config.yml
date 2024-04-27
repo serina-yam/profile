@@ -2,7 +2,7 @@
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 baseURL: "https://serina-yam.github.io/profile/"
 publishDir: docs
-title: Blog
+title: Home
 copyright: "serina_yam since 2024.04.24"
 paginate: 5
 theme: [hugo-PaperMod]
@@ -29,77 +29,67 @@ languages:
       tag: tags
     menu:
       main:
+        - name: posts
+          url: posts/
+          weight: 5
         - name: Archive
           url: archives
-          weight: 5
+          weight: 10
         - name: Search
           url: search/
-          weight: 10
+          weight: 15
         - name: Tags
           url: tags/
-          weight: 10
-        # - name: WiKi
-        #   url: https://github.com/adityatelange/hugo-PaperMod/wiki/
+          weight: 20
 
   jp:
     languageName: "JP"
     weight: 2
-    # title: Serina Yam
     taxonomies:
       tag: tags
     menu:
       main:
+        - name: posts
+          url: posts/
+          weight: 5
         - name: Archive
           url: archives/
-          weight: 5
+          weight: 10
         - name: Search
           url: search/
-          weight: 10
+          weight: 15
         - name: Tags
           url: tags/
-          weight: 10
+          weight: 20
 
     # custom params for each language should be under [langcode].parms - hugo v0.120.0
     # params:
-    #   languageAltTitle: French
+    #   languageAltTitle: JP
     #   profileMode:
     #     enabled: true
-    #     title: PaperMod
-    #     imageUrl: "https://raw.githubusercontent.com/googlefonts/noto-emoji/master/svg/emoji_u1f9d1_1f3fb_200d_1f4bb.svg"
+    #     title: Serina Yam
+    #     imageUrl: "profile.jpeg"
     #     imageTitle: ProfileMode image
     #     # imageWidth: 120
     #     # imageHeight: 120
-    #     subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
-    #     buttons:
-    #       - name: Blog
-    #         url: posts
-    #       - name: Profile Mode
-    #         url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
-
-  # fa:
-  #   languagedirection: rtl
-  #   weight: 3
-  #   title: PaperMod RTL
-  #   taxonomies:
-  #     category: FAcategories
-  #     tag: FAtags
-  #     series: FAseries
-  #   menu:
-  #     main:
-  #       - name: FATags
-  #         url: fatags
-  #         weight: 10
-  #   # custom params for each language should be under [langcode].parms - hugo v0.120.0
-  #   params:
-  #     homeInfoParams:
-  #       Title: "Hi there \U0001F44B"
-  #       Content: Welcome to RTL layout
+    #     subtitle: >
+    #       バックエンジニアです。  
+          
+    #       英語学習についての投稿をしていく予定です。
 
 outputs:
   home:
     - HTML
     - RSS
     - JSON
+
+assets:
+  # disableHLJS: true
+  favicon: "favicon.ico"
+#     favicon16x16: "<link / abs url>"
+#     favicon32x32: "<link / abs url>"
+#     apple_touch_icon: "<link / abs url>"
+#     safari_pinned_tab: "<link / abs url>"
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -126,20 +116,26 @@ params:
   profileMode:
     enabled: false
     title: Serina Yam
-    imageUrl: "#"
+    subtitle: >
+      👋 I'm a backend engneer.  
+      
+      I will be posting about learning English!
+    imageUrl: "profile.jpeg"
     imageTitle: my image
     # imageWidth: 120
     # imageHeight: 120
-    buttons:
-      - name: Archives
-        url: archives
-      - name: Tags
-        url: tags
+    # buttons:
+    #   - name: Posts
+    #     url: posts
+    #   - name: Tags
+    #     url: tags
 
   homeInfoParams:
-    Title: "Blog"
+    Title: "Serina Yam"
     Content: >
-      👋 Welcome to serina's blog!
+      👋 I'm a backend engneer.  
+      
+      I will be posting about learning English!
 
   socialIcons:
     - name: github
@@ -166,14 +162,6 @@ params:
   # analytics:
   #     google:
   #         SiteVerificationTag: "XYZabc"
-
-  assets:
-    disableHLJS: true
-  #     favicon: "<link / abs url>"
-  #     favicon16x16: "<link / abs url>"
-  #     favicon32x32: "<link / abs url>"
-  #     apple_touch_icon: "<link / abs url>"
-  #     safari_pinned_tab: "<link / abs url>"
 
   # cover:
   #     hidden: true # hide everywhere but not in structured data

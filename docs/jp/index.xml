@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Blog</title>
+    <title>Home</title>
     <link>https://serina-yam.github.io/profile/jp/</link>
-    <description>Recent content on Blog</description>
+    <description>Recent content on Home</description>
     <image>
-      <title>Blog</title>
+      <title>Home</title>
       <url>https://serina-yam.github.io/profile/images/papermod-cover.png</url>
       <link>https://serina-yam.github.io/profile/images/papermod-cover.png</link>
     </image>
