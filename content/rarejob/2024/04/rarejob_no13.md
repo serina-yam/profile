@@ -9,7 +9,12 @@ tags:
 We talked mainly about anime.  
 I feel that many of the teachers at RareJob are anime lovers.
 
-The teacher told me that I could search and translate the information and explain it, I was able to explain in more detail than usual.
+We also talked about novels.  
+I talked about the book I read last year , "I am Yellow, White, and alittle Blue", so I told her I had read that book.  
+But I thought it was a mistake to tell her this because this book is hard to explain.
+
+The teacher told me that I could search and translate the book and explain it, so I managed to explain the story.  
+Next time I would like to try to explain the synopsis again with something easier to explain.
 
 ## Things to improve
 
