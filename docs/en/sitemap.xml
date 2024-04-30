@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://serina-yam.github.io/profile/</loc>
-    <lastmod>2024-04-29T11:17:22+09:00</lastmod>
+    <lastmod>2024-04-30T12:47:51+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
@@ -16,23 +16,33 @@
                 />
   </url><url>
     <loc>https://serina-yam.github.io/profile/tags/online-lesson/</loc>
-    <lastmod>2024-04-29T11:17:22+09:00</lastmod>
-  </url><url>
-    <loc>https://serina-yam.github.io/profile/rarejob/2024/04/rarejob_no14/</loc>
-    <lastmod>2024-04-29T11:17:22+09:00</lastmod>
+    <lastmod>2024-04-30T12:47:51+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://serina-yam.github.io/profile/jp/rarejob/2024/04/rarejob_no14/"
+                href="https://serina-yam.github.io/profile/jp/tags/online-lesson/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://serina-yam.github.io/profile/rarejob/2024/04/rarejob_no14/"
+                href="https://serina-yam.github.io/profile/tags/online-lesson/"
+                />
+  </url><url>
+    <loc>https://serina-yam.github.io/profile/rarejob/2024/04/rarejob_no15/</loc>
+    <lastmod>2024-04-30T12:47:51+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://serina-yam.github.io/profile/jp/rarejob/2024/04/rarejob_no15/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://serina-yam.github.io/profile/rarejob/2024/04/rarejob_no15/"
                 />
   </url><url>
     <loc>https://serina-yam.github.io/profile/rarejob/</loc>
-    <lastmod>2024-04-29T11:17:22+09:00</lastmod>
+    <lastmod>2024-04-30T12:47:51+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
@@ -45,7 +55,7 @@
                 />
   </url><url>
     <loc>https://serina-yam.github.io/profile/tags/</loc>
-    <lastmod>2024-04-29T11:17:22+09:00</lastmod>
+    <lastmod>2024-04-30T12:47:51+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
@@ -55,6 +65,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://serina-yam.github.io/profile/tags/"
+                />
+  </url><url>
+    <loc>https://serina-yam.github.io/profile/rarejob/2024/04/rarejob_no14/</loc>
+    <lastmod>2024-04-29T11:17:22+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://serina-yam.github.io/profile/jp/rarejob/2024/04/rarejob_no14/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://serina-yam.github.io/profile/rarejob/2024/04/rarejob_no14/"
                 />
   </url><url>
     <loc>https://serina-yam.github.io/profile/rarejob/2024/04/rarejob_no13/</loc>
