@@ -15,11 +15,11 @@ My favorite place is the Sagrada Familia.
 
 ## Impressions
 
-I couldn't speak well today.  
-There are probably two reasons for this.  
-First, She speaks a little too quickly.  
-Second, I slept most of the day.  
-I couldn't even speak Japanese well today😩
+I didn't communicate effectively today. 
+There are likely two reasons for this. 
+Firstly, she speaks a bit too quickly. 
+Secondly, I slept for most of the day. 
+I couldn't even speak Japanese well today 😩
 
 ## Correcting mistakes
 
