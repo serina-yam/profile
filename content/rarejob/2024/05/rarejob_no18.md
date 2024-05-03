@@ -9,7 +9,7 @@ tags:
 
 We talked about My favorites.
 
-I tald the tutor about my favorite drink, the smoothie.  
+I told the tutor about my favorite drink, the smoothie.  
 I bought a smoothie at 7-Eleven today and drink it.  
 Actually, it was my first time trying it, and I found it delicious,  
 so it's become my favorite.
