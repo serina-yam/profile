@@ -13,7 +13,7 @@ We talked about Health and Lifestyle.
 My tutor said she had curry udon last week and I told her that Marugame Seimen is famous in Japan.  
 She knew about Marigame Seimen, so I was surprised.
 
-She asked me the difference between udon and ramen, but I couldn't wxplane it well.
+She asked me the difference between udon and ramen, but I couldn't explane it well.
 
 ## Impressions
 
