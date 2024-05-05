@@ -32,6 +32,9 @@ languages:
         # - name: posts
         #   url: posts/
         #   weight: 5
+        - name: cebu🏝️
+          url: cebu/
+          weight: 5
         - name: rarejob
           url: rarejob/
           weight: 10
@@ -55,6 +58,9 @@ languages:
         # - name: posts
         #   url: posts/
         #   weight: 5
+        - name: cebu🏝️
+          url: cebu/
+          weight: 5
         - name: rarejob
           url: rarejob/
           weight: 10
