@@ -1,5 +1,4 @@
-# If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
-# contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
+# URLはhttpsで記載する(httpになっていないこと)
 baseURL: "https://serina-yam.github.io/profile/"
 publishDir: docs
 title: Home
@@ -7,7 +6,7 @@ copyright: "serina_yam since 2024.04.24"
 paginate: 5
 theme: [hugo-PaperMod]
 
-# canonifyurls: true
+# canonifyurls: true # URLを正規化するかどうか (テンプレートによって必要な場合あり)
 enableInlineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: false
@@ -21,6 +20,7 @@ minify:
   disableXML: true
   # minifyOutput: true
 
+# 多言語対応の設定
 languages:
   en:
     languageName: "EN"
@@ -28,6 +28,8 @@ languages:
     taxonomies:
       tag: tags
     menu:
+      # ヘッダに表示される
+      # ※weightが被ると片方しか表示されない
       main:
         # - name: posts
         #   url: posts/
@@ -74,6 +76,7 @@ languages:
           url: tags/
           weight: 25
 
+    # 日本語表記でロフィールモードの場合の表示設定 (うまく表示されなかったためコメントアウト)
     # custom params for each language should be under [langcode].parms - hugo v0.120.0
     # params:
     #   languageAltTitle: JP
@@ -125,8 +128,9 @@ params:
   # comments: false
   images: ["images/papermod-cover.png"]
 
+  # プロフィールモード
   profileMode:
-    enabled: false
+    enabled: false # プロフィールモードoff
     title: Serina Yam
     subtitle: >
       👋 I'm a backend engneer.  
@@ -149,6 +153,8 @@ params:
       
       I will be posting about learning English!
 
+  # nameにアイコン名を指定することでアイコン表示可能
+  # 一覧のURL: https://github.com/adityatelange/hugo-PaperMod/wiki/Icons
   socialIcons:
     - name: github
       title: Share Github
