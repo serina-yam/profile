@@ -1,5 +1,5 @@
 ---
-title: "Rarejob no.23"
+title: "Rarejob no.24"
 date: 2024-05-09T10:29:00+09:00
 tags:
 - online lesson
