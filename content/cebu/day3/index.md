@@ -12,5 +12,5 @@ I changed group lessons because it didn't suit me much.
 Also, it was my first time attending a Callan Method lesson.  
 It was suitable for me, and I enjoyed the atmosphere.
 
-Today, I had two classes, which is unusual because I had a makeup class.  
+Today, I had two callan method classes, which is unusual because I had a makeup class.  
 I was very tired.
