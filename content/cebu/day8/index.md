@@ -5,14 +5,6 @@ tags:
 - Cebu
 ---
 
-I was absent in the afternoon.  
-I was more tired today because yesterday's fatigue has built up.
-
-I was bored since I had a sick. 
-so I googled how to improve my English. 
-I bought an audiobook and kindle of Arazin.
-
-
 I was absent in the afternoon.
 I was more tired today because yesterday's fatigue had built up.  
 
