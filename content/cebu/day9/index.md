@@ -8,7 +8,7 @@ tags:
 The doctor gave me medicine, so I feel a little better.  
 
 The teacher explained to me about the IELTS almost every day.  
-I didn't know why... Should I take the IELTS?? 😂
+I didn't know why...Should I take the IELTS??😂
 
 I also talked about the exam with another teacher.  
 I told him, "My TOEIC score is 540 points, but I need 700 points."  
