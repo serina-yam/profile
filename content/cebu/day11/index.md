@@ -15,6 +15,6 @@ I'm still not good at making sentences in English.
 I can't think of any English words, 
 and it's difficult to put together what I want to say.  
  
- I asked about 5 teachers which English-English dictionary they recommend, Merriam-Webster or Oxford.  
+ I asked about 5 teachers which English-English dictionary they recommend, Merriam-Webster or Dictionary.com.  
 As a result, many teachers recommended Merriam-Webster, so I'll use Merriam-Webster.  
 However, I don't like using an English-English dictionary...
