@@ -9,7 +9,7 @@ Today is the first rainy day since I came here.
 I always feel sleepy when the weather is bad,  
 so I was sleepy today.
 
-I had Korean food for dinner with my friends.  
+I had Korean food for dinner with my friends🇰🇷🇯🇵.  
 After that, we went to the photo space at my school and took some photos.  
 It was fun.
 
