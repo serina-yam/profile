@@ -10,12 +10,17 @@ I attended the graduation ceremony and took a lot of pictures with my friends fr
 
 I went to a Filipino restaurant for dinner with my friends from Taiwan and Japan.  
 I ate pumpkin cream pasta and lobster🎃🦞.  
+<img src="image1.jpg" alt="foods">
 It was tasty, and I saw a beautiful view.
+<img src="image2.jpg" alt="beautiful view">
+
+
 
 It was really, really fun!  
 Although I stayed at CIA for only three weeks,  
 I made a lot of friends.  
 I also talked with my teachers.  
+<img src="image3.jpg" alt="CIA">
 
 I think I improved my English skills a little,  
 so I want to keep studying English in Japan.  
