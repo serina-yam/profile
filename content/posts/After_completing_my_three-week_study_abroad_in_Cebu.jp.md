@@ -125,7 +125,7 @@ TEDのディクテーションができるアプリです。
 ### スクリプト法
 
 MiyuさんのYouTubeを見ていて  
-[この動画](https://youtu.be/9qcS5yIOepU?si=gRNpu2LD64fC6TTq)でスクリプト法が紹介されてたので参考にしたいなぁと思います。  
+[この動画](https://youtu.be/9qcS5yIOepU?si=gRNpu2LD64fC6TTq)でスクリプト法が紹介されていてすごく良さそうでした！  
 ただこれは、あんまりやる気にならないので参考程度に。笑  
 （大変なの嫌だ😩）
 
