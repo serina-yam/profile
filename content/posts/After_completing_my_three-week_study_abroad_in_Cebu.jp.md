@@ -111,7 +111,7 @@ CIAの授業にカランメソッドがあってめちゃくちゃ良かった�
 3つのどれかの方法を気分で選んでやろうかなーって思ってます。
 
 1. **YouTube**  
-YouTubeは、[Jenn Im](https://www.youtube.com/@imjennim/videos)好きなので、基本この方の動画で字幕ありのものにする予定です。
+YouTubeは、[Jenn Im](https://www.youtube.com/@imjennim/videos)が好きなので、基本この方の動画で字幕ありのものにする予定です。
 
 2. **TEDICT**  
 TEDのディクテーションができるアプリです。  
@@ -120,7 +120,7 @@ TEDのディクテーションができるアプリです。
 3. **[Breaking News English](https://breakingnewsenglish.com/)**  
 これは、先生がおすすめしてくれました。  
 毎日1トピック続ければ良いよー、と。  
-ディレクテーションの問題があるので、それをやる予定です。
+ディクテーションの問題があるので、それをやる予定です。
 
 
 ## 最後に
