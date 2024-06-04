@@ -83,7 +83,7 @@ webで完結できたのも良かったです。
 
 [こちらの記事](https://serina-yam.github.io/profile/jp/posts/How_I_studied_before_my_short-term_study_abroad_program/)にまとめています。  
 
-エントラントテストは平均A1（ほぼA2）で、  
+エントランステストは平均A1（ほぼA2）で、  
 ライティングA1、その他A2って感じでした。
 
 ### 留学後
