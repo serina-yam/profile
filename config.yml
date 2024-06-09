@@ -14,7 +14,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
-mainsections: ["posts"]
+mainsections: ["posts", "rarejob", "cebu"]
 disablePathToLower: true # パスに大文字が含まれていると小文字に変換されてしまうため、大文字のまま出力するように設定
 
 minify:
