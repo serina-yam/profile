@@ -32,24 +32,24 @@ languages:
       # ヘッダに表示される
       # ※weightが被ると片方しか表示されない
       main:
-        # - name: posts
-        #   url: posts/
-        #   weight: 5
+        - name: posts
+          url: posts/
+          weight: 5
         - name: cebu🏝️
           url: cebu/
-          weight: 5
+          weight: 10
         - name: rarejob
           url: rarejob/
-          weight: 10
+          weight: 15
         - name: Archive
           url: archives
-          weight: 15
+          weight: 20
         - name: Search
           url: search/
-          weight: 20
+          weight: 25
         - name: Tags
           url: tags/
-          weight: 25
+          weight: 30
 
   jp:
     languageName: "JP"
@@ -58,24 +58,24 @@ languages:
       tag: tags
     menu:
       main:
-        # - name: posts
-        #   url: posts/
-        #   weight: 5
+        - name: posts
+          url: posts/
+          weight: 5
         - name: cebu🏝️
           url: cebu/
-          weight: 5
+          weight: 10
         - name: rarejob
           url: rarejob/
-          weight: 10
+          weight: 15
         - name: Archive
           url: archives
-          weight: 15
+          weight: 20
         - name: Search
           url: search/
-          weight: 20
+          weight: 25
         - name: Tags
           url: tags/
-          weight: 25
+          weight: 30
 
     # 日本語表記でロフィールモードの場合の表示設定 (うまく表示されなかったためコメントアウト)
     # custom params for each language should be under [langcode].parms - hugo v0.120.0
