@@ -6,6 +6,7 @@ tags:
 ---
 
 The doctor gave me medicine, so I feel a little better.  
+![medicine](image1.jpg)
 
 The teacher explained to me about the IELTS almost every day.  
 I didn't know why...Should I take the IELTS??😂
@@ -16,3 +17,16 @@ He told me, "Your score will increase immediately!"
 
 I'll take the TOEIC exam next week after I return to Japan.  
 To be honest, I don't think I can get a high score.
+
+
+__
+
+breakfast
+![breakfast](image2.jpg)
+
+dinner
+![dinner](image3.jpg)
+
+
+It wasn't tasty...
+![juce](image4.jpg)

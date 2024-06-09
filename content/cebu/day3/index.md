@@ -14,3 +14,14 @@ It was suitable for me, and I enjoyed the atmosphere.
 
 Today, I had two callan method classes, which is unusual because I had a makeup class.  
 I was very tired.
+
+__
+
+breakfast
+![breakfast](image1.jpg)
+
+free time
+![free time](image2.jpg)
+
+lunch
+![lunch](image3.jpg)

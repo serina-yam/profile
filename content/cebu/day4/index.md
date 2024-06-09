@@ -12,3 +12,12 @@ Although I was sad about missing them,
 two things made me happy:  
 first, the dining hall served me porridge,  
 and second, I had plans to go out with my friends.
+![dinner](image1.jpg)
+
+__
+
+I didn't eat this, but it looked delicious.
+![lunch](image2.jpg)
+
+at laundry service
+![laundry](image3.jpg)

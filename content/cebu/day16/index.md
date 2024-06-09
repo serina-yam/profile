@@ -13,3 +13,12 @@ I make new friends every day these days.
 I'm not good at talking to anyone, so I'm happy to make friends by talking to them myself.
 
 The only thing that makes me sad is that I have to go back to Japan in a few days.
+
+I saw a rainbow.
+<img src="image1.jpg" alt="raibow">
+
+breakfast
+<img src="image2.jpg" alt="breakfast">
+
+dinner
+<img src="image3.jpg" alt="dinner">
