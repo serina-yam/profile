@@ -1,0 +1,59 @@
+<canvas id="myLineChart" width="400" height="200"></canvas>
+<!-- <label for="dateRange">表示範囲:</label>
+<select id="dateRange" onchange="updateChart()">
+  <option value="12">直近1年</option>
+  <option value="6">直近6ヶ月</option>
+  <option value="3">直近3ヶ月</option>
+</select> -->
+<script>
+  var allLabels = ['2024-04', '2024-05', '2024-06', '2024-07', '2024-08', '2024-09', '2024-10', '2024-11', '2024-12', '2025-01', '2025-02', '2025-03'];
+  var qqEnglishData = [0, 0, 20];
+  var rareJobData = [19, 10, 0];
+
+  var ctx = document.getElementById('myLineChart').getContext('2d');
+  var myLineChart = new Chart(ctx, {
+      type: 'line',
+      data: {
+          labels: allLabels.slice(-12),
+          datasets: [
+            {
+                label: 'QQEnglish',
+                backgroundColor: 'rgba(75,192,192,0.4)',
+                borderColor: 'rgba(75,192,192,1)',
+                data: qqEnglishData.slice(-12)
+            },
+            {
+                label: 'Rarejob',
+                backgroundColor: 'rgba(144,238,144,0.4)',
+                borderColor: 'rgba(144,238,144,1)',
+                data: rareJobData.slice(-12)
+            }
+          ]
+      },
+    options: {
+        scales: {
+            x: {
+                title: {
+                    display: true,
+                    text: 'yyyy-mm'
+                }
+            },
+            y: {
+                beginAtZero: true,
+                title: {
+                    display: true,
+                    text: 'Lesson Count'
+                }
+            }
+        }
+    }
+  });
+
+  function updateChart() {
+      var range = document.getElementById('dateRange').value;
+      myLineChart.data.labels = allLabels.slice(-range);
+      myLineChart.data.datasets[0].data = qqEnglishData.slice(-range);
+      myLineChart.data.datasets[1].data = rareJobData.slice(-range);
+      myLineChart.update();
+  }
+</script>
