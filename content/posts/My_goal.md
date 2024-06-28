@@ -1,6 +1,7 @@
 ---
 title: "My goal"
 date: 2024-06-28T23:25:16+09:00
+draft: true
 ---
 
 I have something I want to do.  
