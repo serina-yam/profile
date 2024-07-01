@@ -19,7 +19,7 @@ date: 2024-06-30T23:59:00+09:00
 結果は、590点。  
 2年前よりは50点上がりました。600点以上欲しかったなぁ。
 
-![toeic result](toeic_result.png)
+![toeic result](toeic_result.jp.png)
 
 
 公式問題集買ったけど、使う時間なかったので他の資格取得が落ち着いたらまた受けたいです。
@@ -30,7 +30,7 @@ date: 2024-06-30T23:59:00+09:00
 21回受けました。
 ステージ2の43%まで進みました。
 
-![qqenglish](qqenglish.png)
+![qqenglish](qqenglish.jp.png)
 
 
 
