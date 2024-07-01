@@ -61,12 +61,12 @@ languages:
         - name: posts
           url: posts/
           weight: 5
-        - name: cebu🏝️
-          url: cebu/
-          weight: 10
-        - name: rarejob
-          url: rarejob/
-          weight: 15
+        # - name: cebu🏝️
+        #   url: cebu/
+        #   weight: 10
+        # - name: rarejob
+        #   url: rarejob/
+        #   weight: 15
         - name: Archive
           url: archives
           weight: 20
