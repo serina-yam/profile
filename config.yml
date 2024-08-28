@@ -134,7 +134,7 @@ params:
     enabled: false # プロフィールモードoff
     title: Serina Yam
     subtitle: >
-      👋 I'm a backend engneer.  
+      👋 I'm a Server-side engineer.  
       
       I will be posting about learning English!
     imageUrl: "profile.jpeg"
@@ -150,7 +150,7 @@ params:
   homeInfoParams:
     Title: "Serina Yam"
     Content: >
-      👋 I'm a backend engneer.  
+      👋 I'm a Server-side engineer.  
       
       I will be posting about learning English!
 
