@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Home</title>
-    <link>http://localhost:64801/profile/tags/</link>
+    <link>http://localhost:64865/profile/tags/</link>
     <description>Recent content in Tags on Home</description>
     <image>
       <title>Home</title>
-      <url>http://localhost:64801/profile/images/papermod-cover.png</url>
-      <link>http://localhost:64801/profile/images/papermod-cover.png</link>
+      <url>http://localhost:64865/profile/images/papermod-cover.png</url>
+      <link>http://localhost:64865/profile/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>serina_yam since 2024.04.24</copyright>
-    <lastBuildDate>Fri, 31 May 2024 23:22:00 +0800</lastBuildDate><atom:link href="http://localhost:64801/profile/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 May 2024 23:22:00 +0800</lastBuildDate><atom:link href="http://localhost:64865/profile/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cebu</title>
-      <link>http://localhost:64801/profile/tags/Cebu/</link>
+      <link>http://localhost:64865/profile/tags/Cebu/</link>
       <pubDate>Fri, 31 May 2024 23:22:00 +0800</pubDate>
       
-      <guid>http://localhost:64801/profile/tags/Cebu/</guid>
+      <guid>http://localhost:64865/profile/tags/Cebu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Online Lesson</title>
-      <link>http://localhost:64801/profile/tags/online-lesson/</link>
+      <link>http://localhost:64865/profile/tags/online-lesson/</link>
       <pubDate>Thu, 09 May 2024 12:51:00 +0900</pubDate>
       
-      <guid>http://localhost:64801/profile/tags/online-lesson/</guid>
+      <guid>http://localhost:64865/profile/tags/online-lesson/</guid>
       <description></description>
     </item>
     
