@@ -163,9 +163,6 @@ params:
     - name: twitter
       title: Share X/Twitter
       url: "https://twitter.com/serina_yam"
-    - name: zenn
-      title: Share zenn
-      url: "https://zenn.dev/serina_yam"
 
   # editPost:
   #   URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
