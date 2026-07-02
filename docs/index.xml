@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>serina_yam since 2024.04.24</copyright>
-    <lastBuildDate>Fri, 28 Jun 2024 23:25:16 +0900</lastBuildDate><atom:link href="http://localhost:1313/profile/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 May 2024 23:22:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/profile/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Day 19</title>
       <link>http://localhost:1313/profile/cebu/day19/</link>
@@ -631,6 +631,15 @@ I say &amp;lsquo;I like k-pop idol and anime&amp;rsquo;.
 Correcting mistakes You said Correct I&amp;rsquo;m watch TV I&amp;rsquo;m watching TV I see Connie Go. I saw Connie Go (on TV). </description>
     </item>
     
+    
+    <item>
+      <title>Day 0</title>
+      <link>http://localhost:1313/profile/baguio/day0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/profile/baguio/day0/</guid>
+      <description>TBD</description>
+    </item>
     
     
   </channel>
