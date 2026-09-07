@@ -13,8 +13,19 @@
     <language>en</language>
     <managingEditor>Serina Yam</managingEditor>
     <webMaster>Serina Yam</webMaster>
-    <copyright>serina_yam since 2024.04.24</copyright>
-    <lastBuildDate>Sun, 06 Sep 2026 19:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>serina_yam since 2024.04.24</copyright><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 1</title>
+      <link>http://localhost:1313/blog/baguio/day1/</link>
+      <pubDate>Mon, 07 Sep 2026 19:00:00 +0800</pubDate>
+      <author>Serina Yam</author>
+      <guid>http://localhost:1313/blog/baguio/day1/</guid>
+      <description>&lt;p&gt;I took an IELTS mock test today.&lt;/p&gt;
+&lt;p&gt;I was expecting the results to be terrible, but they weren&amp;rsquo;t as bad as I thought. My Writing and Speaking scores were both 5.0, which wasn&amp;rsquo;t too bad.&lt;/p&gt;
+&lt;p&gt;My overall score was actually 4.5, though, mainly because I got 4.5 in Listening and only 3.0 in Reading. 😇&lt;/p&gt;
+&lt;p&gt;The mock test result was pretty bad, but I got an overall score of 5.5 six months ago.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Day 0</title>
       <link>http://localhost:1313/blog/baguio/day0/</link>
