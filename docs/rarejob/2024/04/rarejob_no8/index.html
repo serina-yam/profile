@@ -11,7 +11,7 @@
 I think wo talked about Korean doramas and Japanese anime as usual.">
 <meta name="author" content="Serina Yam">
 <link rel="canonical" href="http://localhost:1313/blog/rarejob/2024/04/rarejob_no8/">
-<link crossorigin="anonymous" href="/blog/assets/css/stylesheet.eddd7c260b398d7284ffc215b3b2bf57d4debd737098de43240680267dcd3e7b.css" integrity="sha256-7d18Jgs5jXKE/8IVs7K/V9TevXNwmN5DJAaAJn3NPns=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/blog/assets/css/stylesheet.9561f4141e2c9fc474e0256088cf421e272537953dfce9ee80d82dabc5675292.css" integrity="sha256-lWH0FB4sn8R04CVgiM9CHiclN5U9/OnugNgtq8VnUpI=" rel="preload stylesheet" as="style">
 
 
 <script defer crossorigin="anonymous" src="/blog/assets/js/highlight.f413e19d0714851f6474e7ee9632408e58ac146fbdbe62747134bea2fa3415e0.js" integrity="sha256-9BPhnQcUhR9kdOfuljJAjlisFG&#43;9vmJ0cTS&#43;ovo0FeA="
@@ -312,7 +312,23 @@ I think wo talked about Korean doramas and Japanese anime as usual.</p>
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
         <path d="M12 6H0l6-6z" />
     </svg>
-</a>
+</a><script>
+  document.querySelectorAll('.post-content img[alt]').forEach((image) => {
+    const label = image.alt.trim();
+    if (!label || image.closest('.photo-with-label')) return;
+
+    const wrapper = document.createElement('span');
+    wrapper.className = 'photo-with-label';
+    image.replaceWith(wrapper);
+    wrapper.append(image);
+
+    const caption = document.createElement('span');
+    caption.className = 'photo-label';
+    caption.textContent = label;
+    wrapper.append(caption);
+  });
+</script>
+
 
 <script>
     let menu = document.getElementById('menu')
