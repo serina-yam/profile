@@ -1,0 +1,16 @@
+<script>
+  document.querySelectorAll('.post-content img[alt]').forEach((image) => {
+    const label = image.alt.trim();
+    if (!label || image.closest('.photo-with-label')) return;
+
+    const wrapper = document.createElement('span');
+    wrapper.className = 'photo-with-label';
+    image.replaceWith(wrapper);
+    wrapper.append(image);
+
+    const caption = document.createElement('span');
+    caption.className = 'photo-label';
+    caption.textContent = label;
+    wrapper.append(caption);
+  });
+</script>

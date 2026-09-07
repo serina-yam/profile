@@ -15,3 +15,21 @@ iframe {
 .entry-cover img {
     border: 1px solid var(--border);
 }
+
+.post-content .photo-with-label {
+    display: block;
+    margin: 1rem 0 var(--content-gap);
+}
+
+.post-content .photo-with-label img {
+    display: block;
+    margin: 0;
+}
+
+.post-content .photo-label {
+    display: block;
+    color: var(--secondary);
+    font-size: 0.9rem;
+    margin-top: 0.5rem;
+    text-align: center;
+}
