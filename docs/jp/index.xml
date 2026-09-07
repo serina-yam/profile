@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Home</title>
-    <link>http://localhost:1313/blog/jp/</link>
+    <link>https://serina-yam.github.io/blog/jp/</link>
     <description>Recent content on Home</description>
     <image>
       <title>Home</title>
-      <url>http://localhost:1313/blog/images/papermod-cover.png</url>
-      <link>http://localhost:1313/blog/images/papermod-cover.png</link>
+      <url>https://serina-yam.github.io/blog/images/papermod-cover.png</url>
+      <link>https://serina-yam.github.io/blog/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
     <managingEditor>Serina Yam</managingEditor>
     <webMaster>Serina Yam</webMaster>
     <copyright>serina_yam since 2024.04.24</copyright>
-    <lastBuildDate>Fri, 31 Jan 2025 22:00:00 +0900</lastBuildDate><atom:link href="http://localhost:1313/blog/jp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 Jan 2025 22:00:00 +0900</lastBuildDate><atom:link href="https://serina-yam.github.io/blog/jp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2025.01 振り返り</title>
-      <link>http://localhost:1313/blog/jp/posts/2025/01/</link>
+      <link>https://serina-yam.github.io/blog/jp/posts/2025/01/</link>
       <pubDate>Fri, 31 Jan 2025 22:00:00 +0900</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/jp/posts/2025/01/</guid>
+      <guid>https://serina-yam.github.io/blog/jp/posts/2025/01/</guid>
       <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;オンライン英会話 カランメソッド&lt;/li&gt;
@@ -81,10 +81,10 @@
     
     <item>
       <title>2024.12 振り返り</title>
-      <link>http://localhost:1313/blog/jp/posts/2024/12/</link>
+      <link>https://serina-yam.github.io/blog/jp/posts/2024/12/</link>
       <pubDate>Tue, 31 Dec 2024 22:03:00 +0900</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/jp/posts/2024/12/</guid>
+      <guid>https://serina-yam.github.io/blog/jp/posts/2024/12/</guid>
       <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;オンライン英会話 カランメソッド&lt;/li&gt;
@@ -151,10 +151,10 @@
     
     <item>
       <title>2024.11 振り返り</title>
-      <link>http://localhost:1313/blog/jp/posts/2024/11/</link>
+      <link>https://serina-yam.github.io/blog/jp/posts/2024/11/</link>
       <pubDate>Thu, 28 Nov 2024 22:03:00 +0900</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/jp/posts/2024/11/</guid>
+      <guid>https://serina-yam.github.io/blog/jp/posts/2024/11/</guid>
       <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;オンライン英会話 カランメソッド&lt;/li&gt;
@@ -232,10 +232,10 @@ mikanアプリでやっているので復習機能使って何周もしていく
     
     <item>
       <title>2024.10 振り返り</title>
-      <link>http://localhost:1313/blog/jp/posts/2024/10/</link>
+      <link>https://serina-yam.github.io/blog/jp/posts/2024/10/</link>
       <pubDate>Thu, 31 Oct 2024 22:03:00 +0900</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/jp/posts/2024/10/</guid>
+      <guid>https://serina-yam.github.io/blog/jp/posts/2024/10/</guid>
       <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;オンライン英会話 カランメソッド&lt;/li&gt;
@@ -316,10 +316,10 @@ mikanアプリでやっているので復習機能使って何周もしていく
     
     <item>
       <title>2024.09 振り返り</title>
-      <link>http://localhost:1313/blog/jp/posts/2024/09/</link>
+      <link>https://serina-yam.github.io/blog/jp/posts/2024/09/</link>
       <pubDate>Mon, 30 Sep 2024 22:03:00 +0900</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/jp/posts/2024/09/</guid>
+      <guid>https://serina-yam.github.io/blog/jp/posts/2024/09/</guid>
       <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;オンライン英会話 カランメソッド&lt;/li&gt;
@@ -403,10 +403,10 @@ Miyuさんが話す英語が大好きなのでこの教材で、英単語に対�
     
     <item>
       <title>2024.08 振り返り</title>
-      <link>http://localhost:1313/blog/jp/posts/2024/08/</link>
+      <link>https://serina-yam.github.io/blog/jp/posts/2024/08/</link>
       <pubDate>Fri, 30 Aug 2024 23:03:00 +0900</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/jp/posts/2024/08/</guid>
+      <guid>https://serina-yam.github.io/blog/jp/posts/2024/08/</guid>
       <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;オンライン英会話 カランメソッド&lt;/li&gt;
@@ -489,10 +489,10 @@ Miyuさんが話す英語が大好きなのでこの教材で、英単語に対�
     
     <item>
       <title>2024.07 振り返り</title>
-      <link>http://localhost:1313/blog/jp/posts/2024/07/</link>
+      <link>https://serina-yam.github.io/blog/jp/posts/2024/07/</link>
       <pubDate>Wed, 31 Jul 2024 23:59:00 +0900</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/jp/posts/2024/07/</guid>
+      <guid>https://serina-yam.github.io/blog/jp/posts/2024/07/</guid>
       <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;オンライン英会話 カランメソッド&lt;/li&gt;
@@ -553,10 +553,10 @@ Miyuさんが話す英語が大好きなのでこの教材で、英単語に対�
     
     <item>
       <title>2024.06 振り返り</title>
-      <link>http://localhost:1313/blog/jp/posts/2024/06/</link>
+      <link>https://serina-yam.github.io/blog/jp/posts/2024/06/</link>
       <pubDate>Sun, 30 Jun 2024 23:59:00 +0900</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/jp/posts/2024/06/</guid>
+      <guid>https://serina-yam.github.io/blog/jp/posts/2024/06/</guid>
       <description>&lt;p&gt;今月から英語学習の振り返りをしていこうと思います。&lt;/p&gt;
 &lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
 &lt;ul&gt;
@@ -649,10 +649,10 @@ mikanの更新はしないでまたabceedに戻りたいなー、っと思って
     
     <item>
       <title>3週間のセブ留学を終えて</title>
-      <link>http://localhost:1313/blog/jp/posts/After_completing_my_three-week_study_abroad_in_Cebu/</link>
+      <link>https://serina-yam.github.io/blog/jp/posts/After_completing_my_three-week_study_abroad_in_Cebu/</link>
       <pubDate>Sun, 02 Jun 2024 12:15:07 +0900</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/jp/posts/After_completing_my_three-week_study_abroad_in_Cebu/</guid>
+      <guid>https://serina-yam.github.io/blog/jp/posts/After_completing_my_three-week_study_abroad_in_Cebu/</guid>
       <description>&lt;p&gt;3週間のセブ留学を終えたので感想をまとめます！&lt;/p&gt;
 &lt;h2 id=&#34;感想&#34;&gt;感想&lt;/h2&gt;
 &lt;p&gt;めっちゃ楽しかったです😭&lt;br&gt;
@@ -730,10 +730,10 @@ TEDのディクテーションができるアプリです。&lt;br&gt;
     
     <item>
       <title>短期留学前の勉強方法</title>
-      <link>http://localhost:1313/blog/jp/posts/How_I_studied_before_my_short-term_study_abroad_program/</link>
+      <link>https://serina-yam.github.io/blog/jp/posts/How_I_studied_before_my_short-term_study_abroad_program/</link>
       <pubDate>Thu, 09 May 2024 13:08:00 +0900</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/jp/posts/How_I_studied_before_my_short-term_study_abroad_program/</guid>
+      <guid>https://serina-yam.github.io/blog/jp/posts/How_I_studied_before_my_short-term_study_abroad_program/</guid>
       <description>&lt;p&gt;留学が決まってから1ヶ月半ほど時間があったため、&lt;br&gt;
 自分なりに教材を選定して勉強しました。&lt;/p&gt;
 &lt;p&gt;良かった点悪かった点をまとめます。&lt;/p&gt;

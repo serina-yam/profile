@@ -2,120 +2,120 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/jp/posts/2025/01/</loc>
+    <loc>https://serina-yam.github.io/blog/jp/posts/2025/01/</loc>
     <lastmod>2025-01-31T22:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/jp/</loc>
-    <lastmod>2025-01-31T22:00:00+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="http://localhost:1313/blog/jp/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/blog/jp/posts/</loc>
+    <loc>https://serina-yam.github.io/blog/jp/</loc>
     <lastmod>2025-01-31T22:00:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/blog/posts/"
+                href="https://serina-yam.github.io/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://localhost:1313/blog/jp/posts/"
+                href="https://serina-yam.github.io/blog/jp/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blog/jp/posts/2024/12/</loc>
+    <loc>https://serina-yam.github.io/blog/jp/posts/</loc>
+    <lastmod>2025-01-31T22:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://serina-yam.github.io/blog/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://serina-yam.github.io/blog/jp/posts/"
+                />
+  </url><url>
+    <loc>https://serina-yam.github.io/blog/jp/posts/2024/12/</loc>
     <lastmod>2024-12-31T22:03:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/jp/posts/2024/11/</loc>
+    <loc>https://serina-yam.github.io/blog/jp/posts/2024/11/</loc>
     <lastmod>2024-11-28T22:03:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/jp/posts/2024/10/</loc>
+    <loc>https://serina-yam.github.io/blog/jp/posts/2024/10/</loc>
     <lastmod>2024-10-31T22:03:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/jp/posts/2024/09/</loc>
+    <loc>https://serina-yam.github.io/blog/jp/posts/2024/09/</loc>
     <lastmod>2024-09-30T22:03:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/jp/posts/2024/08/</loc>
+    <loc>https://serina-yam.github.io/blog/jp/posts/2024/08/</loc>
     <lastmod>2024-08-30T23:03:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/jp/posts/2024/07/</loc>
+    <loc>https://serina-yam.github.io/blog/jp/posts/2024/07/</loc>
     <lastmod>2024-07-31T23:59:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/jp/posts/2024/06/</loc>
+    <loc>https://serina-yam.github.io/blog/jp/posts/2024/06/</loc>
     <lastmod>2024-06-30T23:59:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/jp/posts/After_completing_my_three-week_study_abroad_in_Cebu/</loc>
+    <loc>https://serina-yam.github.io/blog/jp/posts/After_completing_my_three-week_study_abroad_in_Cebu/</loc>
     <lastmod>2024-06-02T12:15:07+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/jp/posts/How_I_studied_before_my_short-term_study_abroad_program/</loc>
+    <loc>https://serina-yam.github.io/blog/jp/posts/How_I_studied_before_my_short-term_study_abroad_program/</loc>
     <lastmod>2024-05-09T13:08:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/jp/archives/</loc>
+    <loc>https://serina-yam.github.io/blog/jp/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/blog/archives/"
+                href="https://serina-yam.github.io/blog/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://localhost:1313/blog/jp/archives/"
+                href="https://serina-yam.github.io/blog/jp/archives/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blog/jp/cebu/</loc>
+    <loc>https://serina-yam.github.io/blog/jp/cebu/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/blog/cebu/"
+                href="https://serina-yam.github.io/blog/cebu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://localhost:1313/blog/jp/cebu/"
+                href="https://serina-yam.github.io/blog/jp/cebu/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blog/jp/rarejob/</loc>
+    <loc>https://serina-yam.github.io/blog/jp/rarejob/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/blog/rarejob/"
+                href="https://serina-yam.github.io/blog/rarejob/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://localhost:1313/blog/jp/rarejob/"
+                href="https://serina-yam.github.io/blog/jp/rarejob/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blog/jp/search/</loc>
+    <loc>https://serina-yam.github.io/blog/jp/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/blog/search/"
+                href="https://serina-yam.github.io/blog/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://localhost:1313/blog/jp/search/"
+                href="https://serina-yam.github.io/blog/jp/search/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blog/jp/tags/</loc>
+    <loc>https://serina-yam.github.io/blog/jp/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/blog/tags/"
+                href="https://serina-yam.github.io/blog/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://localhost:1313/blog/jp/tags/"
+                href="https://serina-yam.github.io/blog/jp/tags/"
                 />
   </url>
 </urlset>

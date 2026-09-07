@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Home</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>https://serina-yam.github.io/blog/</link>
     <description>Recent content on Home</description>
     <image>
       <title>Home</title>
-      <url>http://localhost:1313/blog/images/papermod-cover.png</url>
-      <link>http://localhost:1313/blog/images/papermod-cover.png</link>
+      <url>https://serina-yam.github.io/blog/images/papermod-cover.png</url>
+      <link>https://serina-yam.github.io/blog/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>Serina Yam</managingEditor>
     <webMaster>Serina Yam</webMaster>
     <copyright>serina_yam since 2024.04.24</copyright>
-    <lastBuildDate>Mon, 07 Sep 2026 19:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Sep 2026 19:00:00 +0800</lastBuildDate><atom:link href="https://serina-yam.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Day 1</title>
-      <link>http://localhost:1313/blog/baguio/day1/</link>
+      <link>https://serina-yam.github.io/blog/baguio/day1/</link>
       <pubDate>Mon, 07 Sep 2026 19:00:00 +0800</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/baguio/day1/</guid>
+      <guid>https://serina-yam.github.io/blog/baguio/day1/</guid>
       <description>&lt;p&gt;I took an IELTS mock test today.&lt;/p&gt;
 &lt;p&gt;I was expecting the results to be terrible, but they weren&amp;rsquo;t as bad as I thought. My Writing and Speaking scores were both 5.0, which wasn&amp;rsquo;t too bad.&lt;/p&gt;
 &lt;p&gt;My overall score was actually 4.5, though, mainly because I got 4.5 in Listening and only 3.0 in Reading. 😇&lt;/p&gt;
@@ -29,10 +29,10 @@
     
     <item>
       <title>Day 0</title>
-      <link>http://localhost:1313/blog/baguio/day0/</link>
+      <link>https://serina-yam.github.io/blog/baguio/day0/</link>
       <pubDate>Sun, 06 Sep 2026 19:00:00 +0800</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/baguio/day0/</guid>
+      <guid>https://serina-yam.github.io/blog/baguio/day0/</guid>
       <description>&lt;p&gt;I moved to Baguio from Manila in a van.&lt;br&gt;
 I was exhausted, so I slept well.&lt;br&gt;
 It was colder than I expected.&lt;/p&gt;
@@ -56,10 +56,10 @@ It was cold that I expected.&lt;/p&gt;</description>
     
     <item>
       <title>Day 19</title>
-      <link>http://localhost:1313/blog/cebu/day19/</link>
+      <link>https://serina-yam.github.io/blog/cebu/day19/</link>
       <pubDate>Fri, 31 May 2024 23:22:00 +0800</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/cebu/day19/</guid>
+      <guid>https://serina-yam.github.io/blog/cebu/day19/</guid>
       <description>&lt;p&gt;Today is my last day at CIA.&lt;br&gt;
 I attended the graduation ceremony and took a lot of pictures with my friends from Taiwan, Korea, Vietnam, Russia, and Japan.&lt;/p&gt;
 &lt;p&gt;I went to a Filipino restaurant for dinner with my friends from Taiwan and Japan.&lt;br&gt;
@@ -76,10 +76,10 @@ I also talked with my teachers.&lt;br&gt;
     
     <item>
       <title>Day 18</title>
-      <link>http://localhost:1313/blog/cebu/day18/</link>
+      <link>https://serina-yam.github.io/blog/cebu/day18/</link>
       <pubDate>Thu, 30 May 2024 23:22:00 +0800</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/cebu/day18/</guid>
+      <guid>https://serina-yam.github.io/blog/cebu/day18/</guid>
       <description>&lt;p&gt;I went to a Japanese restaurant, Nonki, for dinner with my friends🇰🇷🇯🇵.&lt;br&gt;
 I was happy to be able to eat Japanese food😭🫶🏻🍣🇯🇵.
 &lt;img src=&#34;image1.jpg&#34; alt=&#34;sushi&#34;&gt;
@@ -91,10 +91,10 @@ Free talk is the most fun part of the class😂&lt;/p&gt;</description>
     
     <item>
       <title>Day 17</title>
-      <link>http://localhost:1313/blog/cebu/day17/</link>
+      <link>https://serina-yam.github.io/blog/cebu/day17/</link>
       <pubDate>Wed, 29 May 2024 23:22:00 +0800</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/cebu/day17/</guid>
+      <guid>https://serina-yam.github.io/blog/cebu/day17/</guid>
       <description>&lt;p&gt;I was absent this afternoon.&lt;br&gt;
 I went to SM Seaside City Cebu.&lt;/p&gt;
 &lt;p&gt;I ate a hamburger at McDonald&amp;rsquo;s, watched a movie, went shopping, ate chicken at Jollibee, and drank a mango shake at the night market.
@@ -115,10 +115,10 @@ I bought 2 T-shirts at KULTURA.
     
     <item>
       <title>Day 16</title>
-      <link>http://localhost:1313/blog/cebu/day16/</link>
+      <link>https://serina-yam.github.io/blog/cebu/day16/</link>
       <pubDate>Tue, 28 May 2024 22:44:00 +0800</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/cebu/day16/</guid>
+      <guid>https://serina-yam.github.io/blog/cebu/day16/</guid>
       <description>&lt;p&gt;I joined ZUNBA lesson for the first time today.&lt;br&gt;
 I couldn&amp;rsquo;t dance well at all, but it was fun.&lt;/p&gt;
 &lt;p&gt;I make new friends every day these days.&lt;br&gt;
@@ -132,10 +132,10 @@ I&amp;rsquo;m not good at talking to anyone, so I&amp;rsquo;m happy to make frie
     
     <item>
       <title>Day 15</title>
-      <link>http://localhost:1313/blog/cebu/day15/</link>
+      <link>https://serina-yam.github.io/blog/cebu/day15/</link>
       <pubDate>Mon, 27 May 2024 22:44:00 +0800</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/cebu/day15/</guid>
+      <guid>https://serina-yam.github.io/blog/cebu/day15/</guid>
       <description>&lt;p&gt;This week is my last week at the CIA.&lt;br&gt;
 The time has gone by so fast.&lt;/p&gt;
 &lt;p&gt;Today, a teacher gave me a snack.&lt;br&gt;
@@ -148,10 +148,10 @@ It made me laugh so much😂&lt;/p&gt;</description>
     
     <item>
       <title>Day 14</title>
-      <link>http://localhost:1313/blog/cebu/day14/</link>
+      <link>https://serina-yam.github.io/blog/cebu/day14/</link>
       <pubDate>Sun, 26 May 2024 22:27:00 +0800</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/cebu/day14/</guid>
+      <guid>https://serina-yam.github.io/blog/cebu/day14/</guid>
       <description>&lt;p&gt;I went to Mactan Newtown Beach with my friend🇯🇵.&lt;br&gt;
 But it was more expensive than I had checked.&lt;br&gt;
 The receptionist told us that the price had changed because the hotel had acquired the beach in 2022.
@@ -168,10 +168,10 @@ even though it was more expensive than I expected.
     
     <item>
       <title>Day 13</title>
-      <link>http://localhost:1313/blog/cebu/day13/</link>
+      <link>https://serina-yam.github.io/blog/cebu/day13/</link>
       <pubDate>Sat, 25 May 2024 23:56:00 +0800</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/cebu/day13/</guid>
+      <guid>https://serina-yam.github.io/blog/cebu/day13/</guid>
       <description>&lt;p&gt;I went to Bohol Island with my boyfriend.&lt;br&gt;
 &lt;img src=&#34;image3.jpg&#34; alt=&#34;ferry&#34;&gt;
 I was able to see Tarsier, the world’s smallest primate.
@@ -194,10 +194,10 @@ It was really fun to do.
     
     <item>
       <title>Day 12</title>
-      <link>http://localhost:1313/blog/cebu/day12/</link>
+      <link>https://serina-yam.github.io/blog/cebu/day12/</link>
       <pubDate>Fri, 24 May 2024 20:21:00 +0800</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/cebu/day12/</guid>
+      <guid>https://serina-yam.github.io/blog/cebu/day12/</guid>
       <description>&lt;p&gt;Today is the first rainy day since I came here.&lt;br&gt;
 I always feel sleepy when the weather is bad,&lt;br&gt;
 so I was sleepy today.
@@ -221,10 +221,10 @@ This is the first time since I became an engineer that I&amp;rsquo;ve gone such 
     
     <item>
       <title>Day 11</title>
-      <link>http://localhost:1313/blog/cebu/day11/</link>
+      <link>https://serina-yam.github.io/blog/cebu/day11/</link>
       <pubDate>Thu, 23 May 2024 22:00:00 +0800</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/cebu/day11/</guid>
+      <guid>https://serina-yam.github.io/blog/cebu/day11/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m almost completely better now.&lt;/p&gt;
 &lt;p&gt;The teacher assigned me homework.&lt;br&gt;
 It&amp;rsquo;s about writing about my friend.&lt;/p&gt;
@@ -238,10 +238,10 @@ However, I don&amp;rsquo;t like using an English-English dictionary&amp;hellip;&
     
     <item>
       <title>Day 10</title>
-      <link>http://localhost:1313/blog/cebu/day10/</link>
+      <link>https://serina-yam.github.io/blog/cebu/day10/</link>
       <pubDate>Wed, 22 May 2024 20:54:00 +0800</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/cebu/day10/</guid>
+      <guid>https://serina-yam.github.io/blog/cebu/day10/</guid>
       <description>&lt;p&gt;I was sleepy due to the side effects of the medicine.
 &lt;img loading=&#34;lazy&#34; src=&#34;image1.jpg&#34; alt=&#34;medicine&#34;  /&gt;
 &lt;/p&gt;
@@ -267,10 +267,10 @@ I had too much sleep&amp;hellip;&lt;/p&gt;
     
     <item>
       <title>Day 9</title>
-      <link>http://localhost:1313/blog/cebu/day9/</link>
+      <link>https://serina-yam.github.io/blog/cebu/day9/</link>
       <pubDate>Tue, 21 May 2024 20:54:00 +0800</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/cebu/day9/</guid>
+      <guid>https://serina-yam.github.io/blog/cebu/day9/</guid>
       <description>&lt;p&gt;The doctor gave me medicine, so I feel a little better.&lt;br&gt;
 &lt;img loading=&#34;lazy&#34; src=&#34;image1.jpg&#34; alt=&#34;medicine&#34;  /&gt;
 &lt;/p&gt;
@@ -285,10 +285,10 @@ To be honest, I don&amp;rsquo;t think I can get a high score.&lt;/p&gt;</descrip
     
     <item>
       <title>Day 8</title>
-      <link>http://localhost:1313/blog/cebu/day8/</link>
+      <link>https://serina-yam.github.io/blog/cebu/day8/</link>
       <pubDate>Mon, 20 May 2024 19:36:00 +0800</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/cebu/day8/</guid>
+      <guid>https://serina-yam.github.io/blog/cebu/day8/</guid>
       <description>&lt;p&gt;I was absent in the afternoon.
 I was more tired today because yesterday&amp;rsquo;s fatigue had built up.&lt;/p&gt;
 &lt;p&gt;I was bored since I was sick,&lt;br&gt;
@@ -310,10 +310,10 @@ I bought an audiobook and Kindle version of Arazin.&lt;/p&gt;
     
     <item>
       <title>Day 7</title>
-      <link>http://localhost:1313/blog/cebu/day7/</link>
+      <link>https://serina-yam.github.io/blog/cebu/day7/</link>
       <pubDate>Sun, 19 May 2024 19:36:00 +0800</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/cebu/day7/</guid>
+      <guid>https://serina-yam.github.io/blog/cebu/day7/</guid>
       <description>&lt;p&gt;I went to Cebu City alone at my own pace because I was not feeling well.
 &lt;img loading=&#34;lazy&#34; src=&#34;image6.jpg&#34; alt=&#34;scenery&#34;  /&gt;
 
@@ -346,10 +346,10 @@ I bought an audiobook and Kindle version of Arazin.&lt;/p&gt;
     
     <item>
       <title>Day 6</title>
-      <link>http://localhost:1313/blog/cebu/day6/</link>
+      <link>https://serina-yam.github.io/blog/cebu/day6/</link>
       <pubDate>Sat, 18 May 2024 23:56:00 +0800</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/cebu/day6/</guid>
+      <guid>https://serina-yam.github.io/blog/cebu/day6/</guid>
       <description>&lt;p&gt;It was first weekend in Cebu.&lt;br&gt;
 I had plans to go to Cebu City with my friends,&lt;br&gt;
 but I got sick again,  so I couldn’t go out.&lt;/p&gt;
@@ -369,10 +369,10 @@ I also thought it was important to have conversations with Japanese people.
     
     <item>
       <title>Day 5</title>
-      <link>http://localhost:1313/blog/cebu/day5/</link>
+      <link>https://serina-yam.github.io/blog/cebu/day5/</link>
       <pubDate>Fri, 17 May 2024 22:40:00 +0800</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/cebu/day5/</guid>
+      <guid>https://serina-yam.github.io/blog/cebu/day5/</guid>
       <description>&lt;p&gt;Many of my teachers were concerned about my health because I was absent yesterday afternoon.&lt;br&gt;
 they are so kind😭&lt;br&gt;
 I fell better than yesterday, and I can eat something.&lt;/p&gt;
@@ -404,10 +404,10 @@ It looks cute but is very sweet.
     
     <item>
       <title>Day 4</title>
-      <link>http://localhost:1313/blog/cebu/day4/</link>
+      <link>https://serina-yam.github.io/blog/cebu/day4/</link>
       <pubDate>Thu, 16 May 2024 19:36:00 +0800</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/cebu/day4/</guid>
+      <guid>https://serina-yam.github.io/blog/cebu/day4/</guid>
       <description>&lt;p&gt;I wasn&amp;rsquo;t feeling well because I caught a cold,&lt;br&gt;
 so I had to be absent for the afternoon classes.&lt;/p&gt;
 &lt;p&gt;Although I was sad about missing them,&lt;br&gt;
@@ -427,10 +427,10 @@ and second, I had plans to go out with my friends.
     
     <item>
       <title>Day 3</title>
-      <link>http://localhost:1313/blog/cebu/day3/</link>
+      <link>https://serina-yam.github.io/blog/cebu/day3/</link>
       <pubDate>Wed, 15 May 2024 20:09:00 +0800</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/cebu/day3/</guid>
+      <guid>https://serina-yam.github.io/blog/cebu/day3/</guid>
       <description>&lt;p&gt;I made more friends than yesterday, so I’m very happy.&lt;/p&gt;
 &lt;p&gt;I changed group lessons because it didn&amp;rsquo;t suit me much.&lt;/p&gt;
 &lt;p&gt;Also, it was my first time attending a Callan Method lesson.&lt;br&gt;
@@ -451,10 +451,10 @@ I was very tired.&lt;/p&gt;
     
     <item>
       <title>Day 2</title>
-      <link>http://localhost:1313/blog/cebu/day2/</link>
+      <link>https://serina-yam.github.io/blog/cebu/day2/</link>
       <pubDate>Tue, 14 May 2024 20:57:00 +0800</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/cebu/day2/</guid>
+      <guid>https://serina-yam.github.io/blog/cebu/day2/</guid>
       <description>&lt;p&gt;Today was my first day of lessons.&lt;br&gt;
 I encountered a problem: most of the textbooks were different from the ones I had expected for my classes.&lt;br&gt;
 I felt anxious, but by the end of the day, I had fun.
@@ -470,10 +470,10 @@ so it was a fun time.&lt;/p&gt;</description>
     
     <item>
       <title>Day 1</title>
-      <link>http://localhost:1313/blog/cebu/day1/</link>
+      <link>https://serina-yam.github.io/blog/cebu/day1/</link>
       <pubDate>Mon, 13 May 2024 21:45:00 +0800</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/cebu/day1/</guid>
+      <guid>https://serina-yam.github.io/blog/cebu/day1/</guid>
       <description>&lt;p&gt;I took a 2-hour exam test. After that, I attended a Japanese orientation.&lt;/p&gt;
 &lt;p&gt;I made friends with two Japanese women and a Chinese woman.&lt;br&gt;
 We had lunch together.
@@ -491,10 +491,10 @@ breakfast
     
     <item>
       <title>Day 0</title>
-      <link>http://localhost:1313/blog/cebu/day0/</link>
+      <link>https://serina-yam.github.io/blog/cebu/day0/</link>
       <pubDate>Sun, 12 May 2024 22:16:00 +0800</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/cebu/day0/</guid>
+      <guid>https://serina-yam.github.io/blog/cebu/day0/</guid>
       <description>&lt;p&gt;Today, I moved to Cebu from Manila and arrived at the language school.&lt;br&gt;
 &lt;img loading=&#34;lazy&#34; src=&#34;image1.jpg&#34; alt=&#34;airport&#34;  /&gt;
 &lt;/p&gt;
@@ -517,10 +517,10 @@ I felt relieved because I was worried about the quality of the food.
     
     <item>
       <title>Rarejob no.25</title>
-      <link>http://localhost:1313/blog/rarejob/2024/05/rarejob_no25/</link>
+      <link>https://serina-yam.github.io/blog/rarejob/2024/05/rarejob_no25/</link>
       <pubDate>Thu, 09 May 2024 12:51:00 +0900</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/rarejob/2024/05/rarejob_no25/</guid>
+      <guid>https://serina-yam.github.io/blog/rarejob/2024/05/rarejob_no25/</guid>
       <description>&lt;h2 id=&#34;what-we-talked-about&#34;&gt;What we talked about&lt;/h2&gt;
 &lt;p&gt;We talked about My favorites.&lt;/p&gt;
 &lt;p&gt;I told my tutor about my favorite sports, soccer and baseball.&lt;br&gt;
@@ -536,10 +536,10 @@ I have improved my English speaking skills compared to before.&lt;/p&gt;</descri
     
     <item>
       <title>Rarejob no.24</title>
-      <link>http://localhost:1313/blog/rarejob/2024/05/rarejob_no24/</link>
+      <link>https://serina-yam.github.io/blog/rarejob/2024/05/rarejob_no24/</link>
       <pubDate>Thu, 09 May 2024 10:29:00 +0900</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/rarejob/2024/05/rarejob_no24/</guid>
+      <guid>https://serina-yam.github.io/blog/rarejob/2024/05/rarejob_no24/</guid>
       <description>&lt;h2 id=&#34;what-we-talked-about&#34;&gt;What we talked about&lt;/h2&gt;
 &lt;p&gt;We talked about health and lifestyle.&lt;/p&gt;
 &lt;p&gt;I told my tutor that I like hamburgers.&lt;/p&gt;
@@ -555,10 +555,10 @@ It&amp;rsquo;s is sold in spring.&lt;/p&gt;
     
     <item>
       <title>Rarejob no.23</title>
-      <link>http://localhost:1313/blog/rarejob/2024/05/rarejob_no23/</link>
+      <link>https://serina-yam.github.io/blog/rarejob/2024/05/rarejob_no23/</link>
       <pubDate>Wed, 08 May 2024 10:26:00 +0900</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/rarejob/2024/05/rarejob_no23/</guid>
+      <guid>https://serina-yam.github.io/blog/rarejob/2024/05/rarejob_no23/</guid>
       <description>&lt;h2 id=&#34;what-we-talked-about&#34;&gt;What we talked about&lt;/h2&gt;
 &lt;p&gt;We talked about health and lifestyle.&lt;/p&gt;
 &lt;p&gt;I told my tutor that I like hamburgers,&lt;br&gt;
@@ -575,10 +575,10 @@ I thought it was interesting.&lt;/p&gt;
     
     <item>
       <title>Rarejob no.22</title>
-      <link>http://localhost:1313/blog/rarejob/2024/05/rarejob_no22/</link>
+      <link>https://serina-yam.github.io/blog/rarejob/2024/05/rarejob_no22/</link>
       <pubDate>Tue, 07 May 2024 12:07:00 +0900</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/rarejob/2024/05/rarejob_no22/</guid>
+      <guid>https://serina-yam.github.io/blog/rarejob/2024/05/rarejob_no22/</guid>
       <description>&lt;h2 id=&#34;what-we-talked-about&#34;&gt;What we talked about&lt;/h2&gt;
 &lt;p&gt;We talked about Health and Lifestyle.&lt;/p&gt;
 &lt;p&gt;I told my tutor about coffee.&lt;br&gt;
@@ -593,10 +593,10 @@ I understood about 60%, but the fast pace made it difficult to respond.&lt;/p&gt
     
     <item>
       <title>Rarejob no.21</title>
-      <link>http://localhost:1313/blog/rarejob/2024/05/rarejob_no21/</link>
+      <link>https://serina-yam.github.io/blog/rarejob/2024/05/rarejob_no21/</link>
       <pubDate>Mon, 06 May 2024 11:35:07 +0900</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/rarejob/2024/05/rarejob_no21/</guid>
+      <guid>https://serina-yam.github.io/blog/rarejob/2024/05/rarejob_no21/</guid>
       <description>&lt;h2 id=&#34;what-we-talked-about&#34;&gt;What we talked about&lt;/h2&gt;
 &lt;p&gt;We talked about my favorites.&lt;/p&gt;
 &lt;p&gt;I told My tutor I liked 7-Eleven smoothies.&lt;br&gt;
@@ -613,10 +613,10 @@ while smoothies are all about getting your nutrients in an tasty sip!&amp;rdquo;
     
     <item>
       <title>Rarejob no.20</title>
-      <link>http://localhost:1313/blog/rarejob/2024/05/rarejob_no20/</link>
+      <link>https://serina-yam.github.io/blog/rarejob/2024/05/rarejob_no20/</link>
       <pubDate>Sun, 05 May 2024 19:26:29 +0900</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/rarejob/2024/05/rarejob_no20/</guid>
+      <guid>https://serina-yam.github.io/blog/rarejob/2024/05/rarejob_no20/</guid>
       <description>&lt;h2 id=&#34;what-we-talked-about&#34;&gt;What we talked about&lt;/h2&gt;
 &lt;p&gt;We talked about Health and Lifestyle.&lt;/p&gt;
 &lt;p&gt;My tutor said she had curry udon last week and I told her that Marugame Seimen is famous in Japan.&lt;br&gt;
@@ -630,10 +630,10 @@ But I&amp;rsquo;m going to try again tomorrow.&lt;/p&gt;</description>
     
     <item>
       <title>Rarejob no.19</title>
-      <link>http://localhost:1313/blog/rarejob/2024/05/rarejob_no19/</link>
+      <link>https://serina-yam.github.io/blog/rarejob/2024/05/rarejob_no19/</link>
       <pubDate>Sun, 05 May 2024 12:26:34 +0900</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/rarejob/2024/05/rarejob_no19/</guid>
+      <guid>https://serina-yam.github.io/blog/rarejob/2024/05/rarejob_no19/</guid>
       <description>&lt;h2 id=&#34;what-we-talked-about&#34;&gt;What we talked about&lt;/h2&gt;
 &lt;p&gt;We talked about Health and Lifestyle.&lt;/p&gt;
 &lt;p&gt;I talked the tutor about my favorite food, sukiyaki.&lt;br&gt;
@@ -648,10 +648,10 @@ I hope to become more fluent in commonly used phrases during my three weeks in t
     
     <item>
       <title>Rarejob no.18</title>
-      <link>http://localhost:1313/blog/rarejob/2024/05/rarejob_no18/</link>
+      <link>https://serina-yam.github.io/blog/rarejob/2024/05/rarejob_no18/</link>
       <pubDate>Fri, 03 May 2024 23:59:00 +0900</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/rarejob/2024/05/rarejob_no18/</guid>
+      <guid>https://serina-yam.github.io/blog/rarejob/2024/05/rarejob_no18/</guid>
       <description>&lt;h2 id=&#34;what-we-talked-about&#34;&gt;What we talked about&lt;/h2&gt;
 &lt;p&gt;We talked about My favorites.&lt;/p&gt;
 &lt;p&gt;I told the tutor about my favorite drink, the smoothie.&lt;br&gt;
@@ -666,10 +666,10 @@ She was fluent in Japanese, which futher surprised me.&lt;/p&gt;
     
     <item>
       <title>Rarejob no.17</title>
-      <link>http://localhost:1313/blog/rarejob/2024/05/rarejob_no17/</link>
+      <link>https://serina-yam.github.io/blog/rarejob/2024/05/rarejob_no17/</link>
       <pubDate>Thu, 02 May 2024 22:33:00 +0900</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/rarejob/2024/05/rarejob_no17/</guid>
+      <guid>https://serina-yam.github.io/blog/rarejob/2024/05/rarejob_no17/</guid>
       <description>&lt;h2 id=&#34;what-we-talked-about&#34;&gt;What we talked about&lt;/h2&gt;
 &lt;p&gt;We talked about traveling.&lt;/p&gt;
 &lt;p&gt;I told the tutor about my favorite place.&lt;br&gt;
@@ -685,10 +685,10 @@ I couldn&amp;rsquo;t even speak Japanese well today😩&lt;/p&gt;</description>
     
     <item>
       <title>Rarejob no.16</title>
-      <link>http://localhost:1313/blog/rarejob/2024/05/rarejob_no16/</link>
+      <link>https://serina-yam.github.io/blog/rarejob/2024/05/rarejob_no16/</link>
       <pubDate>Wed, 01 May 2024 23:21:53 +0900</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/rarejob/2024/05/rarejob_no16/</guid>
+      <guid>https://serina-yam.github.io/blog/rarejob/2024/05/rarejob_no16/</guid>
       <description>&lt;h2 id=&#34;what-we-talked-about&#34;&gt;What we talked about&lt;/h2&gt;
 &lt;p&gt;We talked about my favorites.&lt;/p&gt;
 &lt;p&gt;I toled her about my favorite movies.&lt;br&gt;
@@ -709,10 +709,10 @@ I&amp;rsquo;ll watch them again sometime.&lt;/p&gt;</description>
     
     <item>
       <title>Rarejob no.15</title>
-      <link>http://localhost:1313/blog/rarejob/2024/04/rarejob_no15/</link>
+      <link>https://serina-yam.github.io/blog/rarejob/2024/04/rarejob_no15/</link>
       <pubDate>Tue, 30 Apr 2024 12:47:51 +0900</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/rarejob/2024/04/rarejob_no15/</guid>
+      <guid>https://serina-yam.github.io/blog/rarejob/2024/04/rarejob_no15/</guid>
       <description>&lt;p&gt;We talked about my favorites.&lt;/p&gt;
 &lt;p&gt;She asked me what my favorite food was and I told her about donuts.&lt;br&gt;
 My favorite donut shop is Mister Donut, I said.&lt;br&gt;
@@ -730,10 +730,10 @@ So I would like to try them when I visit the Philippines.&lt;/p&gt;</description
     
     <item>
       <title>Rarejob no.14</title>
-      <link>http://localhost:1313/blog/rarejob/2024/04/rarejob_no14/</link>
+      <link>https://serina-yam.github.io/blog/rarejob/2024/04/rarejob_no14/</link>
       <pubDate>Mon, 29 Apr 2024 11:17:22 +0900</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/rarejob/2024/04/rarejob_no14/</guid>
+      <guid>https://serina-yam.github.io/blog/rarejob/2024/04/rarejob_no14/</guid>
       <description>&lt;p&gt;We talked about my favorites.&lt;br&gt;
 Before that, we talked about me going to Cebu to study.&lt;/p&gt;
 &lt;p&gt;I had mentioned that I like McDonald&amp;rsquo;s, She recommended Jollibee.&lt;br&gt;
@@ -747,10 +747,10 @@ I really want to continue the conversation in the form of &amp;ldquo;but what el
     
     <item>
       <title>Rarejob no.13</title>
-      <link>http://localhost:1313/blog/rarejob/2024/04/rarejob_no13/</link>
+      <link>https://serina-yam.github.io/blog/rarejob/2024/04/rarejob_no13/</link>
       <pubDate>Sun, 28 Apr 2024 22:28:03 +0900</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/rarejob/2024/04/rarejob_no13/</guid>
+      <guid>https://serina-yam.github.io/blog/rarejob/2024/04/rarejob_no13/</guid>
       <description>&lt;p&gt;We talked mainly about anime.&lt;br&gt;
 I feel that many of the teachers at RareJob are anime lovers.&lt;/p&gt;
 &lt;p&gt;We also talked about novels.&lt;br&gt;
@@ -762,10 +762,10 @@ Next time I would like to try to explain the synopsis again with something easie
     
     <item>
       <title>rarejob no.12</title>
-      <link>http://localhost:1313/blog/rarejob/2024/04/rarejob_no12/</link>
+      <link>https://serina-yam.github.io/blog/rarejob/2024/04/rarejob_no12/</link>
       <pubDate>Sat, 27 Apr 2024 15:07:50 +0900</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/rarejob/2024/04/rarejob_no12/</guid>
+      <guid>https://serina-yam.github.io/blog/rarejob/2024/04/rarejob_no12/</guid>
       <description>&lt;p&gt;Because the teacher spoke slowly, I was enjoyable lesson time with her.&lt;br&gt;
 She also pointed out mistakes along the way.&lt;/p&gt;
 &lt;p&gt;She told me about a video streaming site called viu.&lt;/p&gt;
@@ -774,10 +774,10 @@ She also pointed out mistakes along the way.&lt;/p&gt;
     
     <item>
       <title>rarejob no.11</title>
-      <link>http://localhost:1313/blog/rarejob/2024/04/rarejob_no11/</link>
+      <link>https://serina-yam.github.io/blog/rarejob/2024/04/rarejob_no11/</link>
       <pubDate>Fri, 26 Apr 2024 15:07:50 +0900</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/rarejob/2024/04/rarejob_no11/</guid>
+      <guid>https://serina-yam.github.io/blog/rarejob/2024/04/rarejob_no11/</guid>
       <description>&lt;p&gt;I talked about dramas and movies, but couldn&amp;rsquo;t talk about details.&lt;/p&gt;
 &lt;p&gt;She told me I looked young. Like a college student, she said.&lt;br&gt;
 Maybe it&amp;rsquo;s because I have short bangs.&lt;/p&gt;</description>
@@ -785,10 +785,10 @@ Maybe it&amp;rsquo;s because I have short bangs.&lt;/p&gt;</description>
     
     <item>
       <title>rarejob no.10</title>
-      <link>http://localhost:1313/blog/rarejob/2024/04/rarejob_no10/</link>
+      <link>https://serina-yam.github.io/blog/rarejob/2024/04/rarejob_no10/</link>
       <pubDate>Thu, 25 Apr 2024 15:07:50 +0900</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/rarejob/2024/04/rarejob_no10/</guid>
+      <guid>https://serina-yam.github.io/blog/rarejob/2024/04/rarejob_no10/</guid>
       <description>&lt;p&gt;Teacher was so kind.&lt;br&gt;
 Because she spoke clearly, I could easily hear what she was saying.&lt;/p&gt;
 &lt;h2 id=&#34;correcting-mistakes&#34;&gt;Correcting mistakes&lt;/h2&gt;
@@ -822,10 +822,10 @@ Because she spoke clearly, I could easily hear what she was saying.&lt;/p&gt;
     
     <item>
       <title>rarejob no.9</title>
-      <link>http://localhost:1313/blog/rarejob/2024/04/rarejob_no9/</link>
+      <link>https://serina-yam.github.io/blog/rarejob/2024/04/rarejob_no9/</link>
       <pubDate>Wed, 24 Apr 2024 15:07:50 +0900</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/rarejob/2024/04/rarejob_no9/</guid>
+      <guid>https://serina-yam.github.io/blog/rarejob/2024/04/rarejob_no9/</guid>
       <description>&lt;p&gt;I talked about traveling.&lt;/p&gt;
 &lt;h2 id=&#34;correcting-mistakes&#34;&gt;Correcting mistakes&lt;/h2&gt;
 &lt;table&gt;
@@ -850,20 +850,20 @@ Because she spoke clearly, I could easily hear what she was saying.&lt;/p&gt;
     
     <item>
       <title>rarejob no.8</title>
-      <link>http://localhost:1313/blog/rarejob/2024/04/rarejob_no8/</link>
+      <link>https://serina-yam.github.io/blog/rarejob/2024/04/rarejob_no8/</link>
       <pubDate>Tue, 23 Apr 2024 15:07:50 +0900</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/rarejob/2024/04/rarejob_no8/</guid>
+      <guid>https://serina-yam.github.io/blog/rarejob/2024/04/rarejob_no8/</guid>
       <description>&lt;p&gt;I forgot to write down my impressions after this lesson.&lt;br&gt;
 I think wo talked about Korean doramas and Japanese anime as usual.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>rarejob no.7</title>
-      <link>http://localhost:1313/blog/rarejob/2024/04/rarejob_no7/</link>
+      <link>https://serina-yam.github.io/blog/rarejob/2024/04/rarejob_no7/</link>
       <pubDate>Mon, 22 Apr 2024 15:07:50 +0900</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/rarejob/2024/04/rarejob_no7/</guid>
+      <guid>https://serina-yam.github.io/blog/rarejob/2024/04/rarejob_no7/</guid>
       <description>&lt;p&gt;I told him that I was going to Cebu in the Philippines next month to study language.&lt;/p&gt;
 &lt;h2 id=&#34;correcting-mistakes&#34;&gt;Correcting mistakes&lt;/h2&gt;
 &lt;table&gt;
@@ -896,10 +896,10 @@ I think wo talked about Korean doramas and Japanese anime as usual.&lt;/p&gt;</d
     
     <item>
       <title>rarejob no.6</title>
-      <link>http://localhost:1313/blog/rarejob/2024/04/rarejob_no6/</link>
+      <link>https://serina-yam.github.io/blog/rarejob/2024/04/rarejob_no6/</link>
       <pubDate>Sun, 21 Apr 2024 15:07:50 +0900</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/rarejob/2024/04/rarejob_no6/</guid>
+      <guid>https://serina-yam.github.io/blog/rarejob/2024/04/rarejob_no6/</guid>
       <description>&lt;p&gt;Her’s pronunciation was good and easy to listen to.&lt;br&gt;
 However, I coundn’t understand the phrases and had to listen to them over and over again.&lt;/p&gt;
 &lt;p&gt;I would like to take the class again.&lt;/p&gt;
@@ -922,19 +922,19 @@ However, I coundn’t understand the phrases and had to listen to them over and 
     
     <item>
       <title>rarejob no.5</title>
-      <link>http://localhost:1313/blog/rarejob/2024/04/rarejob_no5/</link>
+      <link>https://serina-yam.github.io/blog/rarejob/2024/04/rarejob_no5/</link>
       <pubDate>Sat, 20 Apr 2024 15:07:50 +0900</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/rarejob/2024/04/rarejob_no5/</guid>
+      <guid>https://serina-yam.github.io/blog/rarejob/2024/04/rarejob_no5/</guid>
       <description>&lt;p&gt;I wasn’t good at this lesson.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>rarejob no.4</title>
-      <link>http://localhost:1313/blog/rarejob/2024/04/rarejob_no4/</link>
+      <link>https://serina-yam.github.io/blog/rarejob/2024/04/rarejob_no4/</link>
       <pubDate>Fri, 19 Apr 2024 15:07:50 +0900</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/rarejob/2024/04/rarejob_no4/</guid>
+      <guid>https://serina-yam.github.io/blog/rarejob/2024/04/rarejob_no4/</guid>
       <description>&lt;p&gt;I was talking about my favirite.&lt;/p&gt;
 &lt;h2 id=&#34;correcting-mistakes&#34;&gt;Correcting mistakes&lt;/h2&gt;
 &lt;table&gt;
@@ -971,10 +971,10 @@ However, I coundn’t understand the phrases and had to listen to them over and 
     
     <item>
       <title>rarejob no.3</title>
-      <link>http://localhost:1313/blog/rarejob/2024/04/rarejob_no3/</link>
+      <link>https://serina-yam.github.io/blog/rarejob/2024/04/rarejob_no3/</link>
       <pubDate>Thu, 18 Apr 2024 15:07:50 +0900</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/rarejob/2024/04/rarejob_no3/</guid>
+      <guid>https://serina-yam.github.io/blog/rarejob/2024/04/rarejob_no3/</guid>
       <description>&lt;p&gt;I chose the lesson of conversation question.&lt;br&gt;
 My teacher was so kind and laughed a lot.&lt;/p&gt;
 &lt;p&gt;She is also like korean drama.&lt;br&gt;
@@ -989,10 +989,10 @@ There are many people enjoying picnics on the grass in that park.&lt;/li&gt;
     
     <item>
       <title>rarejob no.2</title>
-      <link>http://localhost:1313/blog/rarejob/2024/04/rarejob_no2/</link>
+      <link>https://serina-yam.github.io/blog/rarejob/2024/04/rarejob_no2/</link>
       <pubDate>Wed, 17 Apr 2024 15:07:50 +0900</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/rarejob/2024/04/rarejob_no2/</guid>
+      <guid>https://serina-yam.github.io/blog/rarejob/2024/04/rarejob_no2/</guid>
       <description>&lt;p&gt;I chosen conversation question lesson.&lt;br&gt;
 I said ‘I like the harry potter series movie’.&lt;/p&gt;
 &lt;p&gt;teacher also like it.&lt;br&gt;
@@ -1002,10 +1002,10 @@ she has books of harry potter series.&lt;/p&gt;
     
     <item>
       <title>rarejob no.1</title>
-      <link>http://localhost:1313/blog/rarejob/2024/04/rarejob_no1/</link>
+      <link>https://serina-yam.github.io/blog/rarejob/2024/04/rarejob_no1/</link>
       <pubDate>Tue, 16 Apr 2024 15:07:50 +0900</pubDate>
       <author>Serina Yam</author>
-      <guid>http://localhost:1313/blog/rarejob/2024/04/rarejob_no1/</guid>
+      <guid>https://serina-yam.github.io/blog/rarejob/2024/04/rarejob_no1/</guid>
       <description>&lt;p&gt;I have first lesson in rarejob.&lt;br&gt;
 I chosen 日常英会話 Level 3.&lt;/p&gt;
 &lt;p&gt;At first, we were introduce myself.&lt;br&gt;
