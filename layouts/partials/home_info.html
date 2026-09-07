@@ -6,9 +6,11 @@
     <div class="entry-content">
         {{ .Content | markdownify }}
     </div>
+    {{- with site.Params.socialIcons }}
     <footer class="entry-footer">
-        {{ partial "social_icons.html" site.Params.socialIcons }}
-        {{ partial "line-chart.html" . }}
+        {{ partial "social_icons.html" . }}
     </footer>
+    {{- end }}
+    {{/* Graph hidden for now: {{ partial "line-chart.html" . }} */}}
 </article>
 {{- end -}}

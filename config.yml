@@ -1,5 +1,5 @@
 # URLはhttpsで記載する(httpになっていないこと)
-baseURL: "https://serina-yam.github.io/profile/"
+baseURL: "https://serina-yam.github.io/blog/"
 publishDir: docs
 title: Home
 copyright: "serina_yam since 2024.04.24"
@@ -24,7 +24,7 @@ minify:
 # 多言語対応の設定
 languages:
   en:
-    languageName: "EN"
+    label: "EN"
     weight: 1
     taxonomies:
       tag: tags
@@ -55,7 +55,7 @@ languages:
           weight: 35
 
   jp:
-    languageName: "JP"
+    label: "JP"
     weight: 2
     taxonomies:
       tag: tags
@@ -232,5 +232,5 @@ markup:
 services:
   instagram:
     disableInlineCSS: true
-  twitter:
+  x:
     disableInlineCSS: true
