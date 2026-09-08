@@ -42,9 +42,13 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            {{- $label_text := (site.Params.label.text | default site.Title) }}
+            {{- $label_text := site.Title }}
+            {{- if reflect.IsMap site.Params.label }}
+                {{- $label_text = site.Params.label.text | default site.Title }}
+            {{- end }}
             {{- if site.Title }}
             <a href="{{ "" | absLangURL }}" accesskey="h" title="{{ $label_text }} (Alt + H)">
+                {{- if reflect.IsMap site.Params.label }}
                 {{- if site.Params.label.icon }}
                 {{- $img := resources.Get site.Params.label.icon }}
                 {{- if $img }}
@@ -69,6 +73,7 @@
                 {{- else if hasPrefix site.Params.label.iconSVG "<svg" }}
                     {{ site.Params.label.iconSVG | safeHTML }}
                 {{- end -}}
+                {{- end }}
                 {{- $label_text -}}
             </a>
             {{- end }}
@@ -104,10 +109,11 @@
                     {{- range . -}}
                     {{- if ne $lang .Lang }}
                     <li>
-                        <a href="{{- .Permalink -}}" title="{{ .Language.Params.languageAltTitle | default (.Language.Label | emojify) | default (.Lang | title) }}"
-                            aria-label="{{ .Language.Label | default (.Lang | title) }}">
-                            {{- if (and site.Params.displayFullLangName (.Language.Label)) }}
-                            {{- .Language.Label | emojify -}}
+                        {{- $language_label := .Language.Params.languageAltTitle | default (.Language.Params.label | emojify) | default (.Lang | title) }}
+                        <a href="{{- .Permalink -}}" title="{{ $language_label }}"
+                            aria-label="{{ $language_label }}">
+                            {{- if site.Params.displayFullLangName }}
+                            {{- $language_label -}}
                             {{- else }}
                             {{- .Lang | title -}}
                             {{- end -}}

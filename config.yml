@@ -24,8 +24,9 @@ minify:
 # 多言語対応の設定
 languages:
   en:
-    label: "EN"
     weight: 1
+    params:
+      label: "EN"
     taxonomies:
       tag: tags
     menu:
@@ -55,8 +56,9 @@ languages:
           weight: 35
 
   jp:
-    label: "JP"
     weight: 2
+    params:
+      label: "JP"
     taxonomies:
       tag: tags
     menu:
