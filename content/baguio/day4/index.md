@@ -1,5 +1,5 @@
 ---
-title: "Day 3"
+title: "Day 4"
 date: 2026-09-10T19:00:00+08:00
 tags:
 - baguio
