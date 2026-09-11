@@ -11,7 +11,7 @@ I got 25 answers right this time, which gave me a band score of 6.0.
 I was just two spelling mistakes away from a 6.5!  
 I definitely need to build up my vocabulary and learn more synonyms.
 
-![alt text](<My teacher's cute drawings.JPG>)
+![My teacher's cute drawings](<My teacher's cute drawings.JPG>)
 
 It was sunny for most of the day, which was nice.
 
