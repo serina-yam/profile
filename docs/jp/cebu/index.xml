@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cebus on Home</title>
+    <link>https://serina-yam.github.io/blog/jp/cebu/</link>
+    <description>Recent content in Cebus on Home</description>
+    <image>
+      <title>Home</title>
+      <url>https://serina-yam.github.io/blog/images/papermod-cover.png</url>
+      <link>https://serina-yam.github.io/blog/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>jp</language>
+    <managingEditor>Serina Yam</managingEditor>
+    <webMaster>Serina Yam</webMaster>
+    <copyright>serina_yam since 2024.04.24</copyright><atom:link href="https://serina-yam.github.io/blog/jp/cebu/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
