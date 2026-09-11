@@ -33,13 +33,13 @@ languages:
       # ヘッダに表示される
       # ※weightが被ると片方しか表示されない
       main:
-        - name: baguio🌳️
+        - name: Baguio🌳️
           url: baguio/
           weight: 10
-        - name: cebu🏝️
+        - name: Cebu🏝️
           url: cebu/
           weight: 15
-        - name: rarejob
+        - name: Rarejob
           url: rarejob/
           weight: 20
         - name: Archive
