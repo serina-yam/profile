@@ -33,9 +33,6 @@ languages:
       # ヘッダに表示される
       # ※weightが被ると片方しか表示されない
       main:
-        - name: posts
-          url: posts/
-          weight: 5
         - name: baguio🌳️
           url: baguio/
           weight: 10
@@ -63,9 +60,6 @@ languages:
       tag: tags
     menu:
       main:
-        - name: posts
-          url: posts/
-          weight: 5
         # - name: baguio🌳️
         #   url: baguio/
         #   weight: 10
