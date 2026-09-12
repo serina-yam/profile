@@ -1,3 +1,9 @@
 resources/**/*
 .hugo_build.lock
 docs/**/*
+
+# The site is published from Hugo's `docs` directory.  A global `Docs` ignore
+# rule can otherwise prevent newly generated pagination pages from being
+# committed, which leaves their live links pointing to 404 pages.
+!docs/
+!docs/**
