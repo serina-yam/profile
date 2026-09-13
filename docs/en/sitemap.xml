@@ -3,16 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://serina-yam.github.io/blog/tags/baguio/</loc>
-    <lastmod>2026-09-11T19:00:00+08:00</lastmod>
+    <lastmod>2026-09-12T19:00:00+08:00</lastmod>
   </url><url>
     <loc>https://serina-yam.github.io/blog/baguio/</loc>
-    <lastmod>2026-09-11T19:00:00+08:00</lastmod>
+    <lastmod>2026-09-12T19:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://serina-yam.github.io/blog/baguio/day5/</loc>
-    <lastmod>2026-09-11T19:00:00+08:00</lastmod>
+    <loc>https://serina-yam.github.io/blog/baguio/day6/</loc>
+    <lastmod>2026-09-12T19:00:00+08:00</lastmod>
   </url><url>
     <loc>https://serina-yam.github.io/blog/</loc>
-    <lastmod>2026-09-11T19:00:00+08:00</lastmod>
+    <lastmod>2026-09-12T19:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -25,7 +25,7 @@
                 />
   </url><url>
     <loc>https://serina-yam.github.io/blog/tags/</loc>
-    <lastmod>2026-09-11T19:00:00+08:00</lastmod>
+    <lastmod>2026-09-12T19:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -36,6 +36,9 @@
                 hreflang="jp"
                 href="https://serina-yam.github.io/blog/jp/tags/"
                 />
+  </url><url>
+    <loc>https://serina-yam.github.io/blog/baguio/day5/</loc>
+    <lastmod>2026-09-11T19:00:00+08:00</lastmod>
   </url><url>
     <loc>https://serina-yam.github.io/blog/baguio/day4/</loc>
     <lastmod>2026-09-10T19:00:00+08:00</lastmod>
